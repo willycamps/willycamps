@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @willycamps a software engineer 
-- 👀 I’m interested in learning new technologies and to put into practice
-- 🌱 I’m currently learning Microsoft Azure DevOps and
+- 👋 Hi, I’m @willycamps a software engineer with 12 years and counting of experience in Tech
+- 👀 I’m interested in learning new technologies and to put into practice the knowledge
+- 🌱 I’m currently learning Microsoft Azure DevOps
 - 💞️ I’m looking to collaborate on small open source projects 
--
 - 📫 How to reach me: send me a private message to cordinate a virtual meeting 
 
 As an experienced software developer with broad know-how in various developer languages and frameworks, I have successfully completed numerous projects. 
