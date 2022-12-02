@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willycamps a software engineer with 12 years and counting of experience in Tech
+- 👋 Hi, I’m @willycamps a software engineer with 12 years of experience and counting in Tech
 - 👀 I’m interested in learning new technologies and to put into practice
 - 🌱 I’m currently learning Microsoft Azure DevOps
 - 💞️ I’m looking to collaborate on small open source projects 
